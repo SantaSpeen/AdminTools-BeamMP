@@ -1,0 +1,2 @@
+load("AdminTools")
+registerCoreModule("AdminTools")
